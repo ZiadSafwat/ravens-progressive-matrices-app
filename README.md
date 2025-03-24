@@ -16,7 +16,7 @@ A **Flutter-powered** non-verbal IQ test app based on **Raven's Progressive Matr
 ![RPM Demo](preview.gif)
 
 ## 📜 PDF Report Sample  
-![pdf example](./example.pdf)
+![pdf example](./my_example.pdf)
 
 ## 🛠️ Technologies Used  
 - **Flutter & Dart**  
