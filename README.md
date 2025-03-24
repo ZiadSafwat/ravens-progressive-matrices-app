@@ -1,8 +1,8 @@
 # 🧠 Raven's Progressive Matrices (RPM) App  
-A **Flutter-powered** non-verbal IQ test app based on **Raven's Progressive Matrices**, featuring **question timing, auto-skip functionality, and detailed PDF reports**.  
+A **Flutter-powered** non-verbal IQ test app based on **Raven's Progressive Matrices**, featuring **question timing, auto-skip functionality, and detailed PDF reports** .
 
 ## 📥 Download  
-📌 **[Download APK](./RavenRPM.apk)** *(Make sure to upload the APK to the repository!)*  
+📌 **[Download APK](https://drive.google.com/file/d/1TM73Si1upqGfanMrcNBzWlLxYdvHkQ6T/view?usp=drive_link)  
 
 ## ✨ Features  
 ✅ **Repainted High-Quality Matrices** – All test images fully redrawn for clarity.  
@@ -25,7 +25,7 @@ A **Flutter-powered** non-verbal IQ test app based on **Raven's Progressive Matr
 - **Custom UI & Image Processing**  
 
 ## 🚀 Installation & Usage  
-1️⃣ **Download & Install:** [Download APK](./RavenRPM.apk)  
+1️⃣ **Download & Install:**[Download APK](https://drive.google.com/file/d/1TM73Si1upqGfanMrcNBzWlLxYdvHkQ6T/view?usp=drive_link)  
 2️⃣ **Start the Test:** Answer the questions before the **5-second timer** runs out.  
 3️⃣ **Get Your Report:** A detailed PDF with **question response times** will be generated.  
 
