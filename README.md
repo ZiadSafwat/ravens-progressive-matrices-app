@@ -1,3 +1,4 @@
+![RPM Demo](1024.png)
 # 🧠 Raven's Progressive Matrices (RPM) App  
 A **Flutter-powered** non-verbal IQ test app based on **Raven's Progressive Matrices**, featuring **question timing, auto-skip functionality, and detailed PDF reports** .
 
